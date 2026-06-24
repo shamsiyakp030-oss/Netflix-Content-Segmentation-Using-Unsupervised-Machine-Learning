@@ -126,6 +126,10 @@ Principal Component Analysis (PCA) was applied to reduce dimensionality and visu
 
 ---
 
+## Streamlit Cloud Community
+
+https://netflix-content-segmentation-using-unsupervised-machine-learni.streamlit.app/
+
 ##  Conclusion
 
 This project demonstrates the power of Unsupervised Machine Learning in discovering hidden structures within Netflix content data. Through EDA, preprocessing, clustering, and visualization, meaningful content segments were identified, providing valuable insights for business decision-making and recommendation systems.
